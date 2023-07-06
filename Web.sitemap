@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode roles="*">
+    <siteMapNode url="" title="D_MỤC" roles="*" description="">
+      <siteMapNode url="~/KeToan/DMKhachHang.aspx" title="KHÁCH HÀNG" roles="*" description="KHÁCH HÀNG" />
+      <siteMapNode url="~/KeToan/DMBan.aspx" title="DANH MỤC BÀN" description="Danh mục Bàn" />
+      <siteMapNode url="~/PhanKhu/DMKhuVuc.aspx" title="DANH MỤC KHU VỰC" description="Danh mục Khu vực" />
+      <siteMapNode url="~/PhanKhu/KhuVucBan.aspx" title="KHU VỰC - BÀN" description="Bố trí bàn" />
+      <siteMapNode url="~/PhanKhu/KhuVucUser.aspx" title="KHU VỰC - NHÂN VIÊN" description="Phân công nhân viên" />
+      <siteMapNode url="~/PhanBep/DMBep.aspx" title="DANH MỤC BẾP" description="Danh mục Bếp" />
+      <siteMapNode url="~/PhanBep/PhanBep.aspx" title="PHÂN LOẠI BẾP" description="Phân loại Bếp" />
+      <siteMapNode url="~/KeToan/DMDonVi.aspx" title="ĐƠN VỊ" description="ĐƠN VỊ TÍNH" />
+      <siteMapNode url="~/KeToan/DMMon.aspx" title="HÀNG BÁN RA" description="DANH MỤC MÓN" />
+      <siteMapNode url="~/KeToan/DMThucPham.aspx" title="HÀNG MUA VÀO" description="HÀNG MUA VÀO ĐỂ CHẾ BIẾN" />
+      <siteMapNode url="~/KeToan/DMLoaiHang.aspx" title="LOẠI HÀNG" description="DANH MỤC LOẠI HÀNG" />
+      <siteMapNode url="~/KeToan/DMThemBot.aspx" title="THÊM BỚT" description="DANH MỤC THÊM BỚT" />
+    </siteMapNode>
+    <siteMapNode url="" title="T_TIỀN" roles="*" description="">
+      <siteMapNode url="~/KeToan/YeuCauTinhTien.aspx" title="YÊU CẦU TÍNH TIỀN" description="YÊU CẦU TÍNH TIỀN" />
+      <siteMapNode url="~/KeToan/BanChuaTinhTien.aspx" title="BÀN CHƯA TÍNH TIỀN" description="XEM TỔNG THỂ" />
+      <siteMapNode url="~/KeToan/KiemTraGoiMonTinhTien.aspx" title="KIỂM TRA GỌI MÓN" description="KIỂM TRA GỌI MÓN" />
+      <siteMapNode url="~/SuaPhieu/" title="SỬA PHIẾU" description="SỬA PHIẾU" />
+    </siteMapNode>
+    <siteMapNode url="" title="TH_KÊ" roles="*" description="">
+      <siteMapNode url="~/SaoKe/" title="SAO KÊ" roles="*" description=""/>
+      <siteMapNode url="~/ThongKe/XemTat.aspx" title="THỐNG KÊ BÁN CHI TIẾT" roles="*" description="" />
+      <siteMapNode url="~/DinhLuong/TonHangCheBien.aspx" title="HÀNG TỒN KHO" roles="Admin,Minh,KeToan" description="" />
+      <siteMapNode url="~/KeToan/PhieuBanHangDayDu.aspx" title="XEM PHIẾU BÁN HÀNG" roles="*" description=""/>
+      <siteMapNode url="~/MuaHang/ThongKeMua.aspx" title="THỐNG KÊ MUA CHI TIẾT" roles="*" description="" />
+      <siteMapNode url="~/ThongKe/ThongKeHangMua.aspx" title="THỐNG KÊ MUA THEO NGÀY" roles="*" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="THU CHI" roles="*" description="">
+      <siteMapNode url="~/ThuChi/PhieuThu.aspx" title="PHIẾU THU" roles="*" description="" />
+      <siteMapNode url="~/ThuChi/PhieuChi.aspx" title="PHIẾU CHI" roles="*" description="" />
+      <siteMapNode url="~/ThuChi/ThuChi.aspx" title="XEM PHIẾU" roles="*" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="MUA BÁN" roles="*" description="">
+      <siteMapNode url="~/" title="BÁN HÀNG" roles="*" description=""/>
+      <siteMapNode url="~/MuaHang/Mh.aspx" title="PHIẾU MUA HÀNG" roles="*" description=""/>
+      <siteMapNode url="~/MuaHang/SuaPhieuMua.aspx" title="SỬA PHIẾU MUA HÀNG" roles="*" description=""/>
+    </siteMapNode>
+    <siteMapNode url="" title="CH_BIẾN" roles="*" description="">
+      <siteMapNode url="~/Bep/bep1.aspx" title="CH_BIẾN_1" roles="*" description=""/>
+      <siteMapNode url="~/Bep/bep2.aspx" title="CH_BIẾN_2" roles="*" description=""/>
+      <siteMapNode url="~/Bep/bep3.aspx" title="CH_BIẾN_3" roles="*" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/Bep/TBHH.aspx" title="HẾT HÀNG" roles="*" description="">
+    </siteMapNode>
+    <siteMapNode url="~/KeToan/PhieuTinhTienRPInLai.aspx" title="IN PHIẾU LẠI" roles="*" description="">
+    </siteMapNode>
+    <siteMapNode url="~/inPhieu/InPhieuTam.aspx" title="IN PHIẾU TẠM" roles="*" description="">
+    </siteMapNode>
+    <siteMapNode url="~/DinhLuong/DinhLuong.aspx" title="ĐỊNH LƯỢNG" roles="*" description="">
+    </siteMapNode>
+    <siteMapNode url="~/Account/KhoaNhanVien.aspx" title="NHÂN VIÊN" roles="Minh" description="">
+    </siteMapNode>
+    <siteMapNode url="" title="M" roles="Minh" description="">
+      <siteMapNode url="~/Admin/XoaSach.aspx" title="XÓA SẠCH" roles="Minh" description="">
+      </siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,15 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/*
+.navbar {
+  margin-bottom: 20px;
+}
+*/
+@media (min-width: 480px) {
+  .table {
+    width: 300px;
+  }
+}
+
